@@ -25,6 +25,9 @@ Tasks
 5. Basic Network Security
     - Configured firewall rules on a router to block specific traffic
     - Tested connectivity using ping to verify blocked traffic
+  HOW TO VIEW FILE AND CHECK:
+- you can download cisco packet tracer to view my file and check it's functionality.
+- you can opwn my issue in this respiratory to view the screenshots of tasks.    
       
 
 
